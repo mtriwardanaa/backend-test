@@ -1,0 +1,11 @@
+{
+    "name": "RolePolicy",
+    "alias": "rolepolicy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RolePolicy\\Providers\\RolePolicyServiceProvider"
+    ],
+    "files": []
+}
